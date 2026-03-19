@@ -32,9 +32,8 @@
 
 # 2.PREZENTAREA PLATFORMEI HARDWARE
 
-## 2.1 Caracteristici tehnice – Arduino Uno
+##2.1 Caracteristici tehnice - Arduino Uno
 	Placa de dezvoltare Arduino UNO R3 ATmega328P este o alegere excelenta pentru orice pasionat de electronica, programare și robotica. Aceasta placa open-source este o versiune actualizata a modelului clasic Arduino UNO, cu caracteristici imbunatatite și compatibilitate cu un numar mare de module de extensie. Cu un microcontroller ATmega328P la baza sa, placa are o memorie programabila de 32KB si poate fi programata prin intermediul mediului de dezvoltare Arduino.
-
 Specificatii:
   - Tensiune de functionare: 5V
   - Tensiune de alimentare Jack: 7V – 12V
@@ -45,7 +44,7 @@ Specificatii:
   - Comunicatie TWI, SPI si UART
   - Frecventa de functionare: 16 MHz
 
-##2.2 Caracteristici tehnice – Senzor de distanta ultrasonic HC-SR04
+## 2.2 Caracteristici tehnice – Senzor de distanta ultrasonic HC-SR04
   HC-SR04 este un model economic ce ofera masuratori fara contact, de la 2 cm la 400 cm, avand o acuratete de pana la 3mm. Fiecare modul HC-SR04 include un transmitator ultrasonic, un receptor si un circuit de control. Singurii pini care trebuie sa te preocupe sunt: VCC, Trig, Echo si GND.
 Specificatii:
   - Tensiune de operare: 5V DC
