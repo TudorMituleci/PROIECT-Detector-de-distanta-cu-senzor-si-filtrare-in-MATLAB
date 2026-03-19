@@ -32,8 +32,8 @@
 
 # 2.PREZENTAREA PLATFORMEI HARDWARE
 
-##2.1 Caracteristici tehnice - Arduino Uno
-	Placa de dezvoltare Arduino UNO R3 ATmega328P este o alegere excelenta pentru orice pasionat de electronica, programare și robotica. Aceasta placa open-source este o versiune actualizata a modelului clasic Arduino UNO, cu caracteristici imbunatatite și compatibilitate cu un numar mare de module de extensie. Cu un microcontroller ATmega328P la baza sa, placa are o memorie programabila de 32KB si poate fi programata prin intermediul mediului de dezvoltare Arduino.
+## 2.1 Caracteristici tehnice - Arduino Uno
+  Placa de dezvoltare Arduino UNO R3 ATmega328P este o alegere excelenta pentru orice pasionat de electronica, programare și robotica. Aceasta placa open-source este o versiune actualizata a modelului clasic Arduino UNO, cu caracteristici imbunatatite și compatibilitate cu un numar mare de module de extensie. Cu un microcontroller ATmega328P la baza sa, placa are o memorie programabila de 32KB si poate fi programata prin intermediul mediului de dezvoltare Arduino.
 Specificatii:
   - Tensiune de functionare: 5V
   - Tensiune de alimentare Jack: 7V – 12V
